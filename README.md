@@ -5,7 +5,7 @@ Compile SDK - 34
 
 Student Details
 
-Full Name: <Aurko Mazumder>
+Full Name: Aurko Mazumder
 CCID: <mazumde1>
 
 References and Resources
